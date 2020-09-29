@@ -55,7 +55,6 @@ def add_characters
         {:name => "Apothecary"} 
         ]
    }
-   }
 
    # Write code below that does the following programmatically:
    #
